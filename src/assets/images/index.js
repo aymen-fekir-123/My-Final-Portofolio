@@ -16,8 +16,8 @@ import headerLogo from './header-logo.svg'
 
 
 import nike from './Nike-project.png'
-import project2 from './project2.png'
-import project5 from './project-5.png'
+import project2 from './Project2.png'
+import project5 from './Project-5.png'
 import project3d from './project-3d.png'
 import project3d_2 from './project-3d-2.png'
 
